@@ -1,2 +1,2 @@
 # ChessAI
-ChessAI for lonley people 
+Chess with AI
