@@ -21,4 +21,3 @@ All moves is append to list
 
 TO DO:
 - add flask for playing online 
-- before checkmate printng big inscription CHECKMATE in move list
